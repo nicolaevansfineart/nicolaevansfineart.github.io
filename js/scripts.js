@@ -65,7 +65,7 @@ wheresHeader();
           }
           galleryTwo += '<div class="gallery__img-container '+classToShow+'" data-section="'+galleryLower+'">';
           galleryTwo += '<a class="lightbox__wrap" href="images/'+galleryLower+'/' + img.name + '.jpg" data-lightbox="example-set" data-title="'+img.description+'">';
-          galleryTwo += '<img  class="gallery__img__1" class="lightbox__wrap--img" src="images/'+galleryLower+'/' + img.name + '.jpg" alt="' + img.name + '"/>';
+          galleryTwo += '<img  class="gallery__img__1" class="lightbox__wrap--img" src="images/'+galleryLower+'/' + img.name + '.jpg" alt="Nicola Evans Fine Art' + img.name + '"/>';
           if(index == 0){
           galleryTwo += '<div class="overlay">';
           galleryTwo +=   '<div class="overlay__text">';
