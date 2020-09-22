@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow:
+/css/styles.css
+/js/scripts.js
+/js/forms.js
+Sitemap: https://nicolaevansfineart.com/sitemap.xml
